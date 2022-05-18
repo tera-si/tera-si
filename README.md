@@ -10,8 +10,8 @@
                 ||     ||
 ```
 
-# TryHackMe
+Top 1% on TryHackMe
+
 ![my tryhackme badge](terasi.png "my tryhackme badge")
 
-As of 19/05/2022:
-- top 1%
+As of 19/05/2022

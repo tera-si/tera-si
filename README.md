@@ -1,3 +1,4 @@
+```
  ________________________________________
 / Hoi, I'm terasi. Sometimes I make things \
 \ and some other times I break them.       /
@@ -7,7 +8,7 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
+```
 
 # TryHackMe
 ![my tryhackme badge](terasi.png "my tryhackme badge")

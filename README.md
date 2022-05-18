@@ -10,6 +10,16 @@
                 ||     ||
 ```
 
+I am completely self-taught!
+
+**I did**:
+
+- CS50
+- FullStack Open
+- Cyber Security Base on MOOC.fi
+
+**TryHackMe Profile**
+
 Top 1% on TryHackMe
 
 ![my tryhackme badge](terasi.png "my tryhackme badge")

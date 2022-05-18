@@ -1,7 +1,7 @@
 ```
  ________________________________________
 / Hoi, I'm terasi. Sometimes I make things \
-\ and some other times I break them.       /
+\ but most other times I break them.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______

@@ -28,6 +28,6 @@ As of 19/05/2022
 
 **DMOJ**
 
-I used to solve programming puzzles on [DMOJ.ca](https://dmoj.ca/user/tera_si) as well.
+Sometimes solve programming puzzles on [DMOJ.ca](https://dmoj.ca/user/tera_si) as well, mostly using C.
 
 But nowadays I am focusing on security stuffs.

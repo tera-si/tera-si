@@ -1,4 +1,6 @@
 ```
+┌─[tera-si@github] - [README]
+└─[$] whoami | cowsay
  ________________________________________
 / Hoi, I'm terasi. Sometimes I make things \
 \ but most other times I break them.       /

@@ -14,7 +14,7 @@
 
 I am completely self-taught!
 
-**I did**:
+**I completed**:
 
 - CS50
 - FullStack Open

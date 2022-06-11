@@ -19,6 +19,11 @@ I am completely self-taught!
 - CS50
 - FullStack Open
 - Cyber Security Base on MOOC.fi
+- TryHackMe Pahts:
+    - Pre-Security
+    - Complete Beginner
+    - Jr Penetration Tester
+    - Offsensive Pentesting
 
 **TryHackMe Profile**
 

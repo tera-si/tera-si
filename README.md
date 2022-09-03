@@ -34,7 +34,7 @@ I worry that things might break, so I break them to confirm so.
 
 **Qualification**:
 
-- OSCP
+![OSCP badge](oscp-badge-shrink.png "OSCP badge")
 
 ---
 

@@ -42,7 +42,7 @@ I worry that things might break, so I break them to confirm so.
 
 Top 1% on TryHackMe
 
-![my tryhackme badge](terasi.png "my tryhackme badge")
+![my tryhackme badge](terasi.png "tryhackme badge")
 
 As of 19/05/2022
 

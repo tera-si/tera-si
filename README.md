@@ -20,6 +20,7 @@ I am completely self-taught!
     - Complete Beginner
     - Jr Penetration Tester
     - Offsensive Pentesting
+- OSCP
 
 **TryHackMe Profile**
 

@@ -38,13 +38,11 @@ I worry that things might break, so I break them to confirm so.
 
 ---
 
-**TryHackMe Profile**:
+**CTF**:
 
-Top 1% on TryHackMe
-
-![my tryhackme badge](terasi.png "tryhackme badge")
-
-As of 19/05/2022
+TryHackMe | HackTheBox
+--- | ---
+![my tryhackme badge](thm.png "tryhackme badge") | ![my hackthebox badge](https://www.hackthebox.com/badge/image/755273)
 
 ---
 

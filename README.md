@@ -42,7 +42,7 @@ I worry that things might break, so I break them to confirm so.
 
 TryHackMe | HackTheBox
 --- | ---
-![my tryhackme badge](thm.png "tryhackme badge") | ![my hackthebox badge](https://www.hackthebox.com/badge/image/755273)
+![my tryhackme badge](https://tryhackme-badges.s3.amazonaws.com/terasi.png "tryhackme badge") | ![my hackthebox badge](https://www.hackthebox.com/badge/image/755273)
 
 ---
 

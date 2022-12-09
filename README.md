@@ -43,7 +43,7 @@ I worry that things might break, so I break them to confirm so.
 TryHackMe | HackTheBox
 --- | ---
 ![my tryhackme badge](https://tryhackme-badges.s3.amazonaws.com/terasi.png "tryhackme badge") | ![my hackthebox badge](https://www.hackthebox.com/badge/image/755273)
-Rank 1832th | Rank 548th
+Top 1% | Level: Hacker
 
 (as of Dec 2022)
 

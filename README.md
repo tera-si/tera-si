@@ -16,6 +16,7 @@ I worry that things might break, so I break them to confirm so.
 
 - CS50
 - FullStack Open
+- Nand2Tetris (Ongoing)
 
 ---
 

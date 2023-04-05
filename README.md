@@ -1,35 +1,6 @@
-```
+I make and break things.
 
-██╗░░██╗███████╗██╗░░░░░██╗░░░░░░█████╗░  ███╗░░██╗░█████╗░██╗░░░██╗██╗
-██║░░██║██╔════╝██║░░░░░██║░░░░░██╔══██╗  ████╗░██║██╔══██╗██║░░░██║██║
-███████║█████╗░░██║░░░░░██║░░░░░██║░░██║  ██╔██╗██║███████║╚██╗░██╔╝██║
-██╔══██║██╔══╝░░██║░░░░░██║░░░░░██║░░██║  ██║╚████║██╔══██║░╚████╔╝░██║
-██║░░██║███████╗███████╗███████╗╚█████╔╝  ██║░╚███║██║░░██║░░╚██╔╝░░██║
-╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░  ╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝
-```
-
-I worry that things might break, so I break them to confirm so.
-
----
-
-**Courses that taught me how to make things**:
-
-- CS50
-- FullStack Open
-- Nand2Tetris (Ongoing)
-
----
-
-**Courses that taught me how to (and why it is important to) break things**:
-
-- Cyber Security Base on MOOC.fi
-- TryHackMe Paths:
-    - Pre-Security
-    - Complete Beginner
-    - Jr Penetration Tester
-    - Offsensive Pentesting
-- Offensive Security:
-    - PEN-200
+*__And in the end, the bugs you break, is equal to the bugs you make.__*
 
 ---
 
